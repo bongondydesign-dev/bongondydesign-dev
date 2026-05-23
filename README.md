@@ -23,12 +23,11 @@
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  Je ne crée pas juste des sites, je forge des outils qui             ║
-║  génèrent de la valeur.                                              ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+> ### *" Je ne crée pas juste des sites, je forge des outils qui génèrent de la valeur. "*
+
+</div>
 
 </div>
 
